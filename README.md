@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abdelrahmankhlefat
-- 👀 I’m interested in Web development
-- 🌱 I’m currently learning React.js
+- 👀 I’m a full-stack web developer
+- 🌱 Currently working as a freelancer
 - 📫 How to reach me abedalrahmankhlefat@gmail.com
 
 <!---
